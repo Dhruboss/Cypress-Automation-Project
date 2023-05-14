@@ -16,9 +16,9 @@
 
 ## How to run this project
 
--Open terminal inside the project or open with Visual Studio Code
--Open Terminal
--Give following command one by one:
+- Open terminal inside the project or open with Visual Studio Code
+- Open Terminal
+- Give following command one by one:
 ```npm i```
 ```npx cypress run```
 
