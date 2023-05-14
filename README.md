@@ -11,7 +11,6 @@
 - Automated user can signup with all the required and non required fields
 - Automated user can select one product > Add it to the cart
 - Automated user can do payment using dummy data
-- Automated User can login successfully
 - Automated User can confirm placing the order
 
 ## How to run this project
